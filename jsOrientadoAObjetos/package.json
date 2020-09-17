@@ -1,0 +1,12 @@
+{
+  "name": "bytebank",
+  "version": "1.0.0",
+  "description": "ByteBank is a fictional bank for whom this application is being developed for personal practice purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JoaoArantes",
+  "license": "ISC",
+  "type": "module"
+}
