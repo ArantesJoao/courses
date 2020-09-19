@@ -6,10 +6,11 @@ export class Account {
   }
 
   withdraw(value) {
-    tax = 1.1 * value
-    if (this._balance >= value) {
-      this._balance -= value;
-      return value;
+    let tax = 1
+    const withdrawnValue = tax * value
+    if (this._balance >= withdrawnValue) {
+      this._balance -= withdrawnValue;
+      return withdrawnValue;
     }
   }
 
