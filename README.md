@@ -1,6 +1,6 @@
 # Courses
 
-This is just a repository to keep the courses I make, from Udemy, Alura, Rocketseat and wherever I can get some good content that can teach me something, this is a pretty personal repository, but I wanna keep it public so that the kind of courses I take is available in here in case anyone wants to know.
+This is just a repository to keep the courses I take, from Udemy, Alura, Rocketseat and wherever I can get some good content that can teach me something, this is a pretty personal repository, but I wanna keep it public so that the kind of courses I take is available in here in case anyone wants to know.
 
 ### Used technologies throughtout the courses in here (for now)
 [<img alt="Python" width="18px" src="https://www.python.org/static/favicon.ico" />](https://www.python.org/)
