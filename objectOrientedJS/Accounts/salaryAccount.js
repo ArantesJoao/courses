@@ -6,7 +6,7 @@ export class SalaryAccount extends Account {
   }
 
   withdraw(value) {
-      const tax = 1.01
-      return super._withdraw(value, tax)
+    const tax = 1.01;
+    return super._withdraw(value, tax);
   }
 }

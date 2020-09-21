@@ -2,7 +2,7 @@ export class Client {
   constructor(name, ssn, password) {
     this.name = name;
     this._ssn = ssn;
-    this._password = password
+    this._password = password;
   }
 
   // Getters and setters
@@ -12,8 +12,4 @@ export class Client {
   }
 
   // End of getters and setters
-
-  authenticate() {
-    return false
-  }
 }

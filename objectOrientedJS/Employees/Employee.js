@@ -19,6 +19,6 @@ export class Employee {
   }
 
   authenticate(password) {
-      return password == this._password
+    return password == this._password;
   }
 }
