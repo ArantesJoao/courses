@@ -16,8 +16,6 @@ Since I consume so much of their content and the whole base of the project was w
 [<img align="left" alt="HTML" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img align="left" alt="CSS" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-<br>
-
 ## License
 
 See the [LICENSE](https://github.com/ArantesJoao/courses/blob/master/LICENSE) file for license rights and limitations (GNU General Public License v3.0).
