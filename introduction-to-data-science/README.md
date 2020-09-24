@@ -13,4 +13,4 @@ This was my first ever contact with data science, so the content in here is real
 
 ## License
 
-See the [LICENSE](https://github.com/ArantesJoao/pearson-correlation-notebok/blob/master/LICENSE.md) file for license rights and limitations (GNU General Public License v3.0).
+See the [LICENSE](https://github.com/ArantesJoao/courses/blob/master/LICENSE) file for license rights and limitations (GNU General Public License v3.0).
