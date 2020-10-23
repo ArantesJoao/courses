@@ -1,0 +1,13 @@
+C:\Users\joaoa\source\repos\CSharpCourse\CSharpCourse\obj\Debug\netcoreapp3.1\CSharpCourse.csprojAssemblyReference.cache
+C:\Users\joaoa\source\repos\CSharpCourse\CSharpCourse\obj\Debug\netcoreapp3.1\CSharpCourse.AssemblyInfoInputs.cache
+C:\Users\joaoa\source\repos\CSharpCourse\CSharpCourse\obj\Debug\netcoreapp3.1\CSharpCourse.AssemblyInfo.cs
+C:\Users\joaoa\source\repos\CSharpCourse\CSharpCourse\obj\Debug\netcoreapp3.1\CSharpCourse.csproj.CoreCompileInputs.cache
+C:\Users\joaoa\source\repos\CSharpCourse\CSharpCourse\bin\Debug\netcoreapp3.1\CSharpCourse.exe
+C:\Users\joaoa\source\repos\CSharpCourse\CSharpCourse\bin\Debug\netcoreapp3.1\CSharpCourse.deps.json
+C:\Users\joaoa\source\repos\CSharpCourse\CSharpCourse\bin\Debug\netcoreapp3.1\CSharpCourse.runtimeconfig.json
+C:\Users\joaoa\source\repos\CSharpCourse\CSharpCourse\bin\Debug\netcoreapp3.1\CSharpCourse.runtimeconfig.dev.json
+C:\Users\joaoa\source\repos\CSharpCourse\CSharpCourse\bin\Debug\netcoreapp3.1\CSharpCourse.dll
+C:\Users\joaoa\source\repos\CSharpCourse\CSharpCourse\bin\Debug\netcoreapp3.1\CSharpCourse.pdb
+C:\Users\joaoa\source\repos\CSharpCourse\CSharpCourse\obj\Debug\netcoreapp3.1\CSharpCourse.dll
+C:\Users\joaoa\source\repos\CSharpCourse\CSharpCourse\obj\Debug\netcoreapp3.1\CSharpCourse.pdb
+C:\Users\joaoa\source\repos\CSharpCourse\CSharpCourse\obj\Debug\netcoreapp3.1\CSharpCourse.genruntimeconfig.cache
