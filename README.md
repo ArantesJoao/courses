@@ -5,6 +5,7 @@ This is just a repository to keep the courses I take, from Udemy, Alura, Rockets
 ### Used technologies throughtout the courses in here (for now)
 [<img alt="Python" width="18px" src="https://www.python.org/static/favicon.ico" />](https://www.python.org/)
 [<img align="left" alt="Pandas" width="18px" src="https://pandas.pydata.org/static/img/favicon.ico" />](https://pandas.pydata.org)
+[<img align="left" alt="CSharp" width="18px" src="https://simpleicons.org/icons/csharp.svg" />](https://docs.microsoft.com/en-US/dotnet/csharp/)
 [<img align="left" alt="Numpy" width="18px" src="https://numpy.org/images/favicon.png" />](https://numpy.org)
 [<img align="left" alt="MatPlotLib" width="18px" src="https://matplotlib.org/_static/favicon.ico" />](https://matplotlib.org)
 [<img align="left" alt="Seaborn" width="18px" src="https://seaborn.pydata.org/_static/favicon.ico?v=0.11.0" />](https://seaborn.pydata.org)
